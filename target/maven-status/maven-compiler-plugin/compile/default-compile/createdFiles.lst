@@ -1,0 +1,8 @@
+com/thoughtworksoftwares/controller/GenericDomainRestController.class
+com/thoughtworksoftwares/service/IGenericDomainService.class
+com/thoughtworksoftwares/dao/impl/GenericDomainDaoImpl.class
+com/thoughtworksoftwares/service/impl/GenericDomainServiceImpl.class
+com/thoughtworksoftwares/Application.class
+com/thoughtworksoftwares/dao/impl/GenericDomainDaoImpl$1.class
+com/thoughtworksoftwares/configuration/ApplicationConfigurer.class
+com/thoughtworksoftwares/dao/IGenericDomainDao.class
