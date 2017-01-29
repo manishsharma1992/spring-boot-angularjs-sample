@@ -1,13 +1,11 @@
-# SpringBootAngular2StaticSample
+# Spring Boot AngularJS 2 Quickstart
 
-This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.20-4.
 
 ## Development server
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `ng init`
 
-## Code scaffolding
+This command will download node_modules into your workspace
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive/pipe/service/class`.
 
 ## Build
 
@@ -28,8 +26,4 @@ Run `ng github-pages:deploy` to deploy to Github Pages.
 
 ## Further help
 
-To get more help on the `angular-cli` use `ng --help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-=======
-# spring-boot-angularjs-sample
-The is quickstart sample project which integrates Spring Boot and AngularJS 2
->>>>>>> 737fbab5bfe88e3032cb0e8827587103e1171079
+You can write to mssharmam51@gmail.com
