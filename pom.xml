@@ -3,8 +3,8 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.thoughtworksoftwares</groupId>
-	<artifactId>thoughtwork-softwares</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>spring-boot-angluarjs-sample</artifactId>
+	<version>1.0.0-RELEASE</version>
 	<packaging>jar</packaging>
 
 	<name>thoughtwork-softwares</name>
