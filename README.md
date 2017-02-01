@@ -3,7 +3,9 @@
 ## Pre-requisites
 
 JDK 1.8 or later
+
 Maven 3.0+
+
 NodeJS 6 or later
 
 ## Running the project
