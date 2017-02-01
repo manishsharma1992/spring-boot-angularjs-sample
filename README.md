@@ -13,7 +13,7 @@ This command will download node_modules into your workspace.
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
 
-Run `mvn spring-boot:run` if running from command line.
+Run `mvn spring-boot:run -Dspring.profiles.active=default` if running from command line.
 
 ## Running unit tests
 
